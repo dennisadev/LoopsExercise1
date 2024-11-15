@@ -1,0 +1,69 @@
+for(int i = 0; i < 5; i++)
+    {
+        Console.WriteLine($"{i});
+    }
+
+for(int x = 0; x < 5; x++)
+    {
+        Console.WriteLine($"{x});
+    }
+
+for(int y; y < 5; y++)
+    {
+        Console.WriteLine($"{y});
+    }
+
+for(int a; a < 5; a++)
+    {
+        Console.WriteLine($"{a});
+    }
+for(int b; b < 5; b++)
+    {
+        Console.WriteLine($"{b});
+    }
+for(int d = 0; d < 5; d++)
+    {
+        Console.WriteLine($"{d});
+    }
+
+for(int e = 0; e < 5; e++)
+    {
+        Console.WriteLine($"{e});
+    }
+
+for(int g; g < 5; g++)
+    {
+        Console.WriteLine($"{g});
+    }
+
+for(int h; h < 5; h++)
+    {
+        Console.WriteLine($"{h});
+    }
+for(int j; j < 5; j++)
+    {
+        Console.WriteLine($"{j});
+    }
+for(int k = 0; k < 5; k++)
+    {
+        Console.WriteLine($"{k});
+    }
+
+for(int m = 0; m < 5; m++)
+    {
+        Console.WriteLine($"{m});
+    }
+
+for(int n; n < 5; n++)
+    {
+        Console.WriteLine($"{n});
+    }
+
+for(int p; p < 5; p++)
+    {
+        Console.WriteLine($"{p});
+    }
+for(int q; q < 5; q++)
+    {
+        Console.WriteLine($"{q});
+    }
